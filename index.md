@@ -1,4 +1,4 @@
-Top 5 things I like about CS 193 Tools
+_Top 5 things I like about CS 193 Tools_
 
 - I like how helpful everyone is: The TA's, the instructors, etc.
 - I like how there is a magic word at the end of the class, makes it more fun.
