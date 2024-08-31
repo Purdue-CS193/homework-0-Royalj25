@@ -1,14 +1,7 @@
+Top 5 things I like about CS 193 Tools
 
-Dining halls at Purdue University (**RANKED**)
-
-Numbered in order from **Best** to _Worst_
-
-_This is my personal opinion_
-
-1. **Wiley Dining Hall** 
-2. Ford Dining Hall
-3. Hillenbrand Dining Hall
-4. Earhart Dining Hall
-5. _Windsor Dining Hall_
-
-
+- I like how helpful everyone is: The TA's, the instructors, etc.
+- I like how there is a magic word at the end of the class, makes it more fun.
+- I like the idea of why the class was created. 
+- I like how informative the class is, it's beneficial.
+- I like how accessible all the resources are for the class. I always know where to find my answer.
